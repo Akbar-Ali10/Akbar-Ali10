@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Akbar-Ali10/Akbar-Ali10/main/akbar-dev.gif"  />
+<img src="https://raw.githubusercontent.com/Akbar-Ali10/Akbar-Ali10/output/snake.svg" alt="Snake animation" />
 
 ###
 
