@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - output  # Snake ko deploy karne ke liye
+  schedule:
+    - cron: "0 0 * * *"  # Har roz update hogi
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake Contributions
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Akbar-Ali10
+          output: dist/snake.svg
+
+      - name: Upload Animation
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/snake.svg
