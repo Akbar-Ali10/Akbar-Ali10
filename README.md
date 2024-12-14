@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Akbar-Ali10/Akbar-Ali10/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -77,7 +77,7 @@
 
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/Zulfiqar-Ali10/Zulfiqar-Ali10/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Akbar-Ali10/Akbar-Ali10/output/snake.svg" alt="Snake animation" />
 
 ###
 
