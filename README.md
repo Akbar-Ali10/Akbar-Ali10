@@ -6,7 +6,6 @@
 
 ###
 
-https://github.com/Akbar-Ali10/Akbar-Ali10/raw/main/1734170237234.jpg
 
 <h1 align="left">Hi 👋! My name is Akbar Ali, and I'm a Frontend Developer from Pakistan</h1>
 
