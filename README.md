@@ -4,9 +4,9 @@
   <img src="https://komarev.com/ghpvc/?username=Akbar-Ali10&label=Profile%20views&color=0e75b6&style=flat" alt="Akbar-Ali10" />
 </p>
 
-<img src="./imgs/1734170237234.jpg" alt="">
 ###
 
+<img src="./imgs/1734170237234.jpg" alt="">
 <h1 align="left">Hi 👋! My name is Akbar Ali, and I'm a Frontend Developer from Pakistan</h1>
 
 ###
