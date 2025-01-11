@@ -1,12 +1,12 @@
-
 <img src="" alt=""/>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Akbar-Ali10&label=Profile%20views&color=0e75b6&style=flat" alt="Akbar-Ali10" />
 </p>
 
 ###
 
-![Akbar Ali Banner](https://github.com/Akbar-Ali10/your-repo-name/raw/main/1734170237234.jpg)
+![Akbar Ali Banner](https://github.com/Akbar-Ali10/Akbar-Ali10/raw/main/1734170237234.jpg)
 
 <h1 align="left">Hi 👋! My name is Akbar Ali, and I'm a Frontend Developer from Pakistan</h1>
 
@@ -21,14 +21,11 @@
 
 <br>
 
-
-
 ###
 
 <h3 align="left">Languages and Tools:</h3>
 
 <br>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -76,9 +73,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 
-
-
 <br clear="both">
 
 ###
-
