@@ -7,7 +7,7 @@
 ###
 
 
-<h1 align="left">Hi 👋! My name is Akbar Ali, and I'm a Frontend Developer from Pakistan</h1>
+<h1 align="left">Hi 👋! My name is Akbar Ali, and I'm a Mern Stack Developer from Pakistan</h1>
 
 ###
 
