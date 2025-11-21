@@ -5,6 +5,11 @@
 </p>
 
 ###
+<p align="center">
+  <img src="/mnt/data/updateb.png" alt="Akbar Ali Banner" />
+</p>
+
+###
 
 
 <h1 align="left">Hi 👋! My name is Akbar Ali, and I'm a Full Stack Developer from Pakistan</h1>
