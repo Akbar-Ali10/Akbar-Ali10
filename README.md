@@ -6,8 +6,9 @@
 
 ###
 <p align="center">
-  <img src="/mnt/data/updateb.png" alt="Akbar Ali Banner" />
+  <img src="https://raw.githubusercontent.com/Akbar-Ali10/Akbar-Ali10/main/updateb.png" alt="Akbar Ali Banner">
 </p>
+
 
 ###
 
