@@ -5,9 +5,10 @@
 </p>
 
 ###
-<p align="center">
-  <img src="PASTE-YOUR-GITHUB-IMAGE-URL-HERE" alt="Akbar Ali Banner" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Akbar-Ali10/Akbar-Ali10/main/akbar-banner.png" alt="Akbar Ali Banner" />
+</div>
+
 
 
 ###
