@@ -5,9 +5,7 @@
 </p>
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akbar-Ali10/Akbar-Ali10/main/akbar-banner.png" alt="Akbar Ali Banner" />
-</div>
+
 
 
 
